@@ -1,0 +1,3 @@
+img, Img, Picture, picture, pic, Pic, photo, Photo {
+    filter: blur(10px);
+}
